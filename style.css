@@ -1,0 +1,29 @@
+div {
+    background-color: aquamarine;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGdyYXl8ZW58MHx8fHwxNjY5NTQ1NzA3&ixlib=rb-1.2.1&q=80&w=1080");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p {
+    font-family: "Faster One", system-ui;
+    font-size: 2rem;
+    color: red;
+    display: inline;
+}
+
+a {
+    display: block;
+}
+
+h1 {
+    display: inline;
+}
+
+/* p {
+    visibility: hidden;
+    display: none;
+} */

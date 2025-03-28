@@ -1,0 +1,11 @@
+div {
+    width: 400px;
+    border: 4px red solid;
+    height: 400px;
+    display: inline-block;
+
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+}
